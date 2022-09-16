@@ -2,7 +2,7 @@ const settings = {
   "name": "kid-elite",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
+      "url": "https://kidapp.phwebhero.com",
       "title": "Test Frontity Blog",
       "description": "WordPress installation for Frontity development"
     }
@@ -14,24 +14,16 @@ const settings = {
         "theme": {
           "menu": [
             [
-              "Home",
-              "/"
+              "Family",
+              "/category/family"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Identity",
+              "/category/identity/"
             ],
             [
-              "Travel",
-              "/category/travel/"
-            ],
-            [
-              "Japan",
-              "/tag/japan/"
-            ],
-            [
-              "About Us",
-              "/about-us/"
+              "Tradition",
+              "/category/tradition/"
             ]
           ],
           "featured": {
@@ -45,7 +37,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://kidapp.phwebhero.com"
         }
       }
     },
