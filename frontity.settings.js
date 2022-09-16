@@ -15,7 +15,7 @@ const settings = {
           "menu": [
             [
               "Family",
-              "/category/family"
+              "/category/family/parents"
             ],
             [
               "Identity",
